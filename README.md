@@ -69,8 +69,13 @@ print(f"a idade é {idade}")
 
 ```
 
+crie tabelas com barras verticais (|) para separar colunas.
+use hífens ecolons para definir a formatação da tabela.
 
-
+| cabeçalho 1 | cabeçalho 2 |
+|-------------|-------------|
+| Dado 1      | Dado 2      |
+| Dado 3      | Dado 4      |
 
 
 
