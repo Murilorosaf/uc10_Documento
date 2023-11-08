@@ -31,6 +31,14 @@ links:
 
 ![imagem](https://github.com/Murilorosaf/uc10_Documento/blob/main/download.png)
 
+Enfase:
+
+itálico -> *texto em itálico* ou _texto em itálico_
+Negrito -> **texto em negrito** ou __texto em negrito__
+tachado -> ~~texto em tachado~~
+subscrito -> Aqui vai o texto em <sub> texto em subscrito </sub>
+Sobrescrito -> Aqui vai o texto em <sup> sobrescrito <sup>
+
 
 
 
