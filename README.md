@@ -44,6 +44,34 @@ subscrito -> Aqui vai o texto em <sub> texto em subscrito </sub>
 Sobrescrito -> Aqui vai o texto em <sup> sobrescrito <sup>
 
 
+> isso é uma citação em bloco.
+
+linhas horizontais:
+
+use três ou mais hífens (---) ou asteriscos (***) para criar uma linha horizontal.
+
+---
+
+
+código: 
+
+use (`) para inserir código inline.
+
+usa três crases (```) para criar bloco de códigos
+
+use crases (\`) para inserir codigo `inline`
+
+`print ("mostra uma mensagem")`
+
+```
+idade = 18
+print(f"a idade é {idade}")
+
+```
+
+
+
+
 
 
 
