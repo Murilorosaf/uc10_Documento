@@ -84,7 +84,9 @@ use - [x] para criar uma lista de tarefas marcadas.
 
 exemplo:
 - [x] tarefa concluída.
-- [ ] tarefa não concluída.
+- [ ] tarefa pendente.
+
+
 
 
 
