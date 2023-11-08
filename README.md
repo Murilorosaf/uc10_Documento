@@ -102,7 +102,19 @@ A aula é com o Ricardo[^2].
 [^2]: Ricardo: professor da turma de git.
 aqui uma outra linha.
 
+Alertas:
 
+> **Note**
+>Esta é uma nota
+
+>[!NOTE]
+>destaca informações que os usuários devem levar em consideração, mesmo durante a leitura superficial.
+
+>[!IMPORTANT]
+>informações cruciais necessáriaspara o sucesso dos usuários 
+
+>[!WARNING]
+>Conteúdo crítico que exige atenção imediata do usuário devido a riscos e potenciais.
 
 
 
