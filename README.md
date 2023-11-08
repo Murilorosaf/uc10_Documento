@@ -77,6 +77,22 @@ use hífens ecolons para definir a formatação da tabela.
 | Dado 1      | Dado 2      |
 | Dado 3      | Dado 4      |
 
+lista de tarefas:
+
+use - [ ] para criar uma lista de tarefas não marcadas.
+use - [x] para criar uma lista de tarefas marcadas.
+
+exemplo:
+- [x] tarefa concluída.
+- [ ] tarefa não concluída.
+
+
+
+
+
+
+
+
 
 
 
